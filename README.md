@@ -104,7 +104,7 @@ tesla-ml-trading-strategy/
 ### Backtesting Results  
 ![Backtest Analysis](data/processed/tesla_backtest_analysis.png)
 
-## 🔬 **Technical Approach**
+##  **Technical Approach**
 
 ### Feature Engineering
 - **Sentiment Scores**: Daily aggregated FinBERT confidence scores
@@ -142,18 +142,13 @@ tesla-ml-trading-strategy/
 
 ##  **Future Enhancements**
 
-- [ ] Real-time trading API integration
-- [ ] Multi-asset portfolio expansion (AAPL, GOOGL, etc.)
-- [ ] Deep learning models (LSTM, Transformer architectures)
-- [ ] Alternative data sources (Reddit, Twitter, earnings calls)
-- [ ] Options pricing and volatility forecasting
-- [ ] Risk management with position sizing
+-  Real-time trading API integration
+-  Multi-asset portfolio expansion (AAPL, GOOGL, etc.)
+-  Deep learning models (LSTM, Transformer architectures)
+-  Alternative data sources (Reddit, Twitter, earnings calls)
+-  Options pricing and volatility forecasting
+-  Risk management with position sizing
 
-##  **Contributing**
-Contributions welcome! Please read our contributing guidelines and submit pull requests for improvements.
-
-##  **License** 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ##  **Disclaimer**
 This project is for educational and research purposes only. Not financial advice. Trading involves risk of loss.

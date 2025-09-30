@@ -47,13 +47,13 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-data/raw/
-data/processed/
-*.csv
-*.jsonl
-*.png
-*.jpg
-*.jpeg
+# data/raw/
+# data/processed/
+# *.csv
+# *.jsonl
+# *.png
+# *.jpg
+# *.jpeg
 
 # API keys and sensitive data
 config.py
